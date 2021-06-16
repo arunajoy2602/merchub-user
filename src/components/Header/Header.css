@@ -7,6 +7,7 @@
     box-sizing: border-box;
     box-shadow: 0 0 10px rgb(0 0 0 / 20%);
     border: 1px solid rgba(0,0,0,.125);
+    padding: 1.5rem 0;
 }
 
 .Header a {
@@ -38,7 +39,7 @@ input:focus {
     background-color: #30BCB4;
     border: none;
     box-sizing: border-box;
-    padding: 0.7rem 1rem 0.9rem  ;
+    padding: 0.45rem 1rem 0.72rem  ;
 }
 .App-logo .logo {
     width: 8rem;
@@ -50,7 +51,7 @@ input:focus {
 .Header  a .fas  {
     background-color: #30BCB4;
     margin-left: 5px;
-    padding: 5px 10px;
+    padding: 7px 12px;
     border: none;
     border-radius: 1px;
     box-shadow: 0px 4px 4px #9e256e;

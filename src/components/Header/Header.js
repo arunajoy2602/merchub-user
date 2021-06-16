@@ -4,7 +4,7 @@ import "./Header.css"
 const Logo = () => {
     return (
         <div className="App-logo">
-            <img alt="Logo" className="logo" src="/images/merchub-shop4.png" />
+            <img alt="Logo" className="logo" src="/images/merchub-shop6.png" />
         </div>
     );
 };
