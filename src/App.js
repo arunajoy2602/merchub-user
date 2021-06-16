@@ -1,12 +1,13 @@
 import React from 'react';
-import Header from './components/Header/Header';
-import Slider from './components/Screens/Slider';
+import LandingPage from './components/Screens/LandingPage'
+import ProductPage from './components/Screens/ProductPage';
+
 
 function App() {
   return(
     <div>
-      <Header />
-      <Slider />
+      {/* <LandingPage /> */}
+      <ProductPage />
     </div>
   )
 };
