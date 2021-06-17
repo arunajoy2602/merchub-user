@@ -66,8 +66,13 @@
     font-weight: 500;
 }
 
+.ProductPage .related h1 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: 2rem;
+}
+
 .ProductPage .related-products {
-    
     display: flex;
     border: 2px solid #9e256e;
     margin: 1rem 2rem;

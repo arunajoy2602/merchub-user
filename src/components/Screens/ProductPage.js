@@ -42,13 +42,16 @@ const ProductPage = () => {
                     </div>
                 </div>
             </div>
-            <div className="related-products">
-                <a href="/"><img alt="Main" className="main" src="/images/pot.jpg" /></a>
-                <a href="/"><img alt="Main" className="main" src="/images/microwaver.jpg" /></a>
-                <a href="/"><img alt="Main" className="main" src="/images/toaster.jpg" /></a>
-                <a href="/product"><img alt="Main" className="main" src="/images/blender.jpg" /></a>
-                <a href="/"><img alt="Main" className="main" src="/images/oven.jpg" /></a>
-                <a href="/"><img alt="Main" className="main" src="/images/fridge.jpg" /></a>
+            <div className="related">
+                <h1>Related Products</h1>
+                <div className="related-products">
+                    <a href="/"><img alt="Main" className="main" src="/images/pot.jpg" /></a>
+                    <a href="/"><img alt="Main" className="main" src="/images/microwaver.jpg" /></a>
+                    <a href="/"><img alt="Main" className="main" src="/images/toaster.jpg" /></a>
+                    <a href="/product"><img alt="Main" className="main" src="/images/blender.jpg" /></a>
+                    <a href="/"><img alt="Main" className="main" src="/images/oven.jpg" /></a>
+                    <a href="/"><img alt="Main" className="main" src="/images/fridge.jpg" /></a>
+                </div>
             </div>
             <Footer />
         </div>
